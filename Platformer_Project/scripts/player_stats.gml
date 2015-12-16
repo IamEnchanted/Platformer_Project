@@ -1,0 +1,3 @@
+hp = argument[0];
+
+
